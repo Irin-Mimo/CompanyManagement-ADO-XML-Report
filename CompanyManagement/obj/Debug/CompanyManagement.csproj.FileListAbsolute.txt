@@ -1,0 +1,104 @@
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.AssemblyReference.cache
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddCompany.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.homePage.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.Properties.Resources.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.GenerateResource.cache
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe.config
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.pdb
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.exe
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.pdb
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmShow.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmEdit.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\bin\Debug\stdole.dll
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyM.12FC8E07.Up2Date
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddEmployee.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmBuyerInfo.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddCompany.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddEmployee.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmBuyerInfo.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmEdit.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmShow.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.homePage.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.productionReport.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.Properties.Resources.resources
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.exe
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.pdb
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe.config
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CompanyManagement.pdb
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\bin\Debug\stdole.dll
+C:\Users\Student\Desktop\Habib(1285854)\IDB Study Documents\M_05(XML_ADO)\Project\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyM.12FC8E07.Up2Date
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.productionReport.resources
+D:\IsBD Course\Module 05\Project\MyProject\CompanyManagement\1285854\CompanyManagement\obj\Debug\CompanyManagement.buyerReport.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe.config
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CompanyManagement.exe
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CompanyManagement.pdb
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\bin\Debug\stdole.dll
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.AssemblyReference.cache
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.buyerReport.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddCompany.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmAddEmployee.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmBuyerInfo.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmEdit.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.frmShow.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.homePage.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.productionReport.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.Properties.Resources.resources
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.GenerateResource.cache
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyM.12FC8E07.Up2Date
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.exe
+D:\IsBD Course\All Modules\All Modules Class\M_05 XML_ADO.NET And Repoting\Project\MyProject\CompanyManagement(XML, ADO.NET & Reporting)\1285854\CompanyManagement\obj\Debug\CompanyManagement.pdb
